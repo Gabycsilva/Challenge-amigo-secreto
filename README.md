@@ -8,11 +8,6 @@ Este é um projeto dinamico e objetivo para **sortear um amigo secreto**, neste 
 - CSS
 - JavaScript 
 
-## 📱 Responsividade
-
-O layout foi adaptado para funcionar perfeitamente em dispositivos móveis e desktops, garantindo uma ótima experiência do usuário em qualquer tela.
-
-
 ## 📂 Estrutura do projeto
 
 ```
